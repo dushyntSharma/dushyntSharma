@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi people 👋
 
+## This is me a.k.a Dushyanth Sharma🤔
 <!--
 **dushyntSharma/dushyntSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
