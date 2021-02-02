@@ -3,7 +3,7 @@
 </p>
 
 ### Hi people 👋
-## This is me aka Dushyanth Sharma🤔
+## Me! aka Dushyanth Sharma🤔
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shreevatsa-ms-03971616b/">
