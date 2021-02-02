@@ -20,7 +20,6 @@
 * 📱 Software Development Engineer.
 * 💻 Currently at [portQii Pte Ltd](https://www.portqii.com/) .
 * 🎪 Bengaluru
-* 🥁 Loves to play Tabala.
+* 🥁 Tabala, Music, Travel.
 * 🎮 HardCore Gamer.
-* 🎤 Passion Towards Listening Music.
 * 😁 Nice to meet you!
