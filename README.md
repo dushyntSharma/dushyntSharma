@@ -2,7 +2,7 @@
 <img src="https://github.com/dushyntSharma/dushyntSharma/blob/master/header.jpg" width="500" alt="iComics on an iPhone XS Max" align="right" />
 </p>
 
-### Hi people 👋
+### Hi Folks 👋
 ## Me! aka Dushyanth Sharma🤔
 
 <p align="left">
@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/-Facebook-blue" alt="Facebook" /></a> 
 <a href="https://www.instagram.com/dushynt_sharma">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
-
 </p>
 
 * 📱 Software Development Engineer.
