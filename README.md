@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/dushyntSharma/dushyntSharma/blob/master/img.jpg" width="400" alt="iComics on an iPhone XS Max" align="right" />
+<img src="https://github.com/dushyntSharma/dushyntSharma/blob/master/img.jpg" width="500" alt="iComics on an iPhone XS Max" align="right" />
 </p>
 
 ### Hi Folks 👋
