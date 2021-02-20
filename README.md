@@ -23,3 +23,4 @@
 * 🎮 HardCore Gamer.
 * 😁 Nice to meet you!
 
+[![HitCount](http://hits.dwyl.com/dushyntSharma/dushyntSharma.svg)](http://hits.dwyl.com/dushyntSharma/dushyntSharma)
