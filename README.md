@@ -24,3 +24,5 @@
 * 😁 Nice to meet you!
 
 [![HitCount](http://hits.dwyl.com/dushyntSharma/dushyntSharma.svg)](http://hits.dwyl.com/dushyntSharma/dushyntSharma)
+
+<img src = "https://github-readme-stats.vercel.app/api?username=dushyntSharma&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyntSharma&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
