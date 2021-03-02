@@ -17,7 +17,7 @@
 </p>
 
 * 📱 Software Development Engineer.
-* 💻 Currently at [portQii Pte Ltd](https://www.portqii.com/) .   
+* 💻 Currently at [Mindtree](https://www.mindtree.com/), Formerly at [portQii Pte Ltd](https://www.portqii.com/) .   
 * 🎪 Bengaluru
 * 🥁 Tabala, Music, Travel.
 * 🎮 HardCore Gamer.
