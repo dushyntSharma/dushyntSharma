@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
 
-* 📱 AEM FullStack Developer.
+* 📱  AEM Full Stack Developer.
 * 💻 Currently at [Mindtree](https://www.mindtree.com/), formerly at [portQii Pte Ltd](https://www.portqii.com/) .   
 * 🎪 Bengaluru
 * 🥁 Tabala, Music, Travel.
