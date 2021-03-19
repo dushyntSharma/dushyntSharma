@@ -20,7 +20,7 @@
 * 💻 Currently at [Mindtree](https://www.mindtree.com/), formerly at [portQii Pte Ltd](https://www.portqii.com/) .   
 * 🎪 Bengaluru
 * 🥁 Tabala, Music, Travel.
-* 🎮 HardCore Gamer.
+* 🎮 Hardcore Gamer.
 * 😁 Nice to meet you!
 
 [![HitCount](http://hits.dwyl.com/dushyntSharma/dushyntSharma.svg)](http://hits.dwyl.com/dushyntSharma/dushyntSharma)
