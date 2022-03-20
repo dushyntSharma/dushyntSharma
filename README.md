@@ -18,7 +18,7 @@
 
 * 📱  Full Stack AEM Developer.
 * 💻 Currently at [Mindtree](https://www.mindtree.com/), formerly at [portQii Pte Ltd](https://www.portqii.com/) .   
-* 🎪 Bengaluru 
+* 🎪 Photographer
 * 🥁 Tabala Player
 * 🎮 Hardcore Gamer
 * 😁 Nice to meet you!
